@@ -31,6 +31,9 @@ Go 언어는 개발자의 생산성 향상에 초점을 두고 설계되어 기�
 다운로드한 유틸리티 go 파일은 Go 언어로 작성한 소스파일을 컴파일(build)하여 실행 가능한 바이너리를 생성하는 것은 물론, 컴파일 후 바로 실행(run)하는 기능을 제공합니다. - ["Google이 만든 프로그래밍 언어, Go"에서 발췌함.](https://www.samsungsds.com/kr/insights/golang.html)
 
 ## 코드와 관련된
+### 기초 문법
+- [The Go programming language - Documentation](https://go.dev/doc/)
+
 ### Code Style
 - [Effective Go](https://go.dev/doc/effective_go)
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
@@ -43,3 +46,7 @@ Go 언어는 개발자의 생산성 향상에 초점을 두고 설계되어 기�
 - [CSP모델을 통한 Go 언어의 특성](https://velog.io/@myong/CSP%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%86%B5%ED%95%9C-Go-%EC%96%B8%EC%96%B4%EC%9D%98-%ED%8A%B9%EC%84%B1)
 - [고 언어에서의 동시성 모델](https://hamait.tistory.com/934)
 - [Communicating sequential processes(CSP) for Go developer in a nutshell.](https://levelup.gitconnected.com/communicating-sequential-processes-csp-for-go-developer-in-a-nutshell-866795eb879d) 
+
+### Data Sturce(자료 구조)
+- [[Golang] 자료 구조](https://dev-yakuza.posstree.com/ko/golang/data-structure/)
+- [[이더리움으로 배우는 GO언어] 자료구조 & 컬렉션](https://hamait.tistory.com/1002)

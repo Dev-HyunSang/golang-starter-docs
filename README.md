@@ -50,3 +50,4 @@ Go 언어는 개발자의 생산성 향상에 초점을 두고 설계되어 기�
 ### Data Sturce(자료 구조)
 - [[Golang] 자료 구조](https://dev-yakuza.posstree.com/ko/golang/data-structure/)
 - [[이더리움으로 배우는 GO언어] 자료구조 & 컬렉션](https://hamait.tistory.com/1002)
+- [Go(Golang) - 자료구조 Stack(스택) 작성 예제 및 소스파일 ](https://niceman.tistory.com/162)

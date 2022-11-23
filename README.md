@@ -31,6 +31,16 @@ Go 언어는 개발자의 생산성 향상에 초점을 두고 설계되어 기�
 [공식 홈페이지](www.golang.org)에서 Go 언어로 작성된 파일을 컴파일·실행·관리할 수 있는 go 바이너리를 다운로드하고 소수의 환경변수 $GOROOT, $GOPATH($GOPATH를 $PATH에 추가)를 설정하는 것만으로 개발 환경을 구성할 수 있습니다.   
 다운로드한 유틸리티 go 파일은 Go 언어로 작성한 소스파일을 컴파일(build)하여 실행 가능한 바이너리를 생성하는 것은 물론, 컴파일 후 바로 실행(run)하는 기능을 제공합니다. - ["Google이 만든 프로그래밍 언어, Go"에서 발췌함.](https://www.samsungsds.com/kr/insights/golang.html)
 
+## Go언어 입문자를 위한
+### 서적
+- [Tucker의 Go 언어 프로그래밍](http://www.yes24.com/Product/Goods/99108736)
+- [가장 빨리 만나는 Go 언어](http://www.yes24.com/Product/Goods/18077092)
+- 
+
+### 영상
+- [Tucker의 Go 언어 프로그래밍](https://youtu.be/KBdz5c-0t1w)
+- [Learn Go Programming - Golang Tutorial for Beginners](https://youtu.be/YS4e4q9oBaU)
+
 ## 코드와 관련된
 ### 기초 문법
 - [The Go programming language - Documentation](https://go.dev/doc/)
